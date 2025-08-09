@@ -6,7 +6,7 @@ export default function TopNav() {
     <div>
             <nav className="navbar bg-body-tertiary">
         <div style={{backgroundColor:'#1F2937'}}  className="container">
-            <a className="navbar-brand" href="/App.s">
+            <a className="navbar-brand" href="/App.js">
             <img src={logo} width="100" alt='logo' height="50"/>
             </a>
         </div>
